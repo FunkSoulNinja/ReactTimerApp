@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import expect from 'expect';
-import TestUtils from 'react-addons-test-utils';
 import $ from 'jQuery';
+import TestUtils from 'react-addons-test-utils';
 
 import CountdownForm from '../../components/CountdownForm';
 
