@@ -11,6 +11,7 @@ class Clock extends React.Component {
 
         return minutes + ':' + seconds;
     }
+
     render() {
         const { totalSeconds } = this.props;
         return (
