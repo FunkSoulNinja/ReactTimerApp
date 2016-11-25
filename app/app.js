@@ -7,7 +7,6 @@ import Timer from './components/Timer';
 import Countdown from './components/Countdown';
 
 // Load Foundation
-require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 // App styles
